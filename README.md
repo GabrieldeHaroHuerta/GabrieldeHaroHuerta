@@ -1,5 +1,3 @@
-```
-
 # 👋 ¡Soy Gabriel, bienvenido a mi perfil!
 
 ---
@@ -28,6 +26,4 @@ Aquí algunas de las tecnologías con las que trabajo:
 ---
 
 ## 📬 Contáctame
-- [LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN)  
-
-```
+- [LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN) 
