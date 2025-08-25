@@ -7,7 +7,7 @@
 
 ---
 
-# 👋 ¡Bienvenido a mi perfil!
+# 👋 ¡Soy Gabriel, bienvenido a mi perfil!
 
 Soy desarrollador apasionado por la tecnología y en constante aprendizaje 🚀  
 
